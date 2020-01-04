@@ -1,0 +1,10 @@
+[2020-01-03 18:42:36] [Data Server]: Starting server
+[2020-01-03 18:50:05] [Data Server]: Starting server
+[2020-01-03 18:50:35] [Data Server]: Socket Connection from /127.0.0.1:51041
+[2020-01-03 18:50:35] [Data Server]: Remote /127.0.0.1:51041 requested signal list
+[2020-01-03 18:50:39] [Data Server]: Remote /127.0.0.1:51041 requested new DAQ
+[2020-01-03 18:50:39] [Data Server]: Remote /127.0.0.1:51041 requested TX start
+[2020-01-03 18:50:40] [Data Server]: Remote /127.0.0.1:51041 requested TX stop
+[2020-01-03 18:50:43] [Data Server]: Socket Connection from /127.0.0.1:51042
+[2020-01-03 18:50:43] [Data Server]: Remote /127.0.0.1:51042 requested signal list
+[2020-01-03 18:53:28] [Data Server]: Starting server
